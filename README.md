@@ -1,5 +1,5 @@
 # Interfaces-Graficas-de-Usuario
-GUI
+GUI - Graphic User Interface
 
 Objetivos:
 * Crear aplicaciones gráficas propias en Java.
